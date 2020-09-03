@@ -3,13 +3,13 @@ import time
 import webbrowser
 
 def openRHC():
-    webbrowser.open('https://us04web.zoom.us/j/5050947651?pwd=UEY3aUMxK1ZvNkIvTUcxVFFTa1VCUT09',new=2)
+    webbrowser.open('https://us04web.zoom.us/j/5050947651?pwd',new=2)
 def openSKM():
-    webbrowser.open('https://us04web.zoom.us/j/4879377543?pwd=bUx3cGtrOFlJVUFjNjU3Sld4dHZKQT09',new=2)
+    webbrowser.open('https://us04web.zoom.us/j/4879377543?pwd',new=2)
 def openANP():
-    webbrowser.open('https://zoom.us/j/7134521253?pwd=REJlYW5hZFd0dEY4bEZNSTFHNWg3dz09',new=2)
+    webbrowser.open('https://zoom.us/j/7134521253?pwd',new=2)
 def openJAK():
-    webbrowser.open('https://zoom.us/j/3263890862?pwd=ay9OVWloUVFzTWVhWWhWeHBzUWI0UT09',new=2)
+    webbrowser.open('https://zoom.us/j/3263890862?pwd',new=2)
 
 print("script started running")
 #monday
